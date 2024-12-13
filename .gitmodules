@@ -1,0 +1,6 @@
+[submodule "src/hey-oldlady-frontend"]
+	path = src/hey-oldlady-frontend
+	url = https://github.com/hal-mang/hey-oldlady-frontend.git
+[submodule "src/hey-oldlady-backend"]
+	path = src/hey-oldlady-backend
+	url = https://github.com/hal-mang/hey-oldlady-backend.git
